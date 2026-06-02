@@ -1,5 +1,5 @@
 # Cricsheet Match Data Analysis (Python + SQL + Power BI)
-A comprehensive cricket data analysis project that processes 4,776,439 ball-by-ball delivery records across T20, ODI, IPL, and TEST formats from Cricsheet.org, performs deep SQL analysis, and creates interactive visualizations. This project demonstrates end-to-end data engineering and analysis skills — from raw JSON parsing to a live Power BI dashboard.
+A comprehensive cricket data analysis project that processes **4,776,439 ball-by-ball delivery records** across **T20, ODI, IPL, and TEST** formats from Cricsheet.org, performs deep SQL analysis, and creates interactive visualizations. This project demonstrates end-to-end **data engineering and analysis skills — from raw JSON parsing to a live Power BI dashboard**.
 
 ## Features
 - Data Parsing: Automated JSON to structured CSV conversion using Pandas and tqdm for all four cricket formats
@@ -39,13 +39,13 @@ The cricket data used in this project is sourced from **Cricsheet.org**, which p
 https://cricsheet.org/downloads/
 
 ## How to Run this Project
-git clone https://github.com/MahalakshmiM12/cricsheet-match-analysis.git
-cd cricsheet-match-analysis
-pip install -r requirements.txt
-python cricsheet_data.py
-python db.py
-python bulk_insert_data.py
-python eda.py
+- git clone https://github.com/MahalakshmiM12/cricsheet-match-analysis.git
+- cd cricsheet-match-analysis
+- pip install -r requirements.txt
+- python cricsheet_data.py
+- python db.py
+- python bulk_insert_data.py
+- python eda.py
 
 ## Power BI Dashboard
 The complete Power BI dashboard is available in:
