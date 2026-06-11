@@ -50,3 +50,4 @@ https://cricsheet.org/downloads/
 ## Power BI Dashboard
 The complete Power BI dashboard is available in:
 cricket_dashboard.pbix
+https://drive.google.com/drive/folders/1JAw6hyil2TiAvxzqbFUbh_ic3Xq--iGa?usp=drive_link
